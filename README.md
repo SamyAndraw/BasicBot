@@ -2,7 +2,7 @@
 ## Made By Samy#1566
 
 **Step by Step**
-- After the Cloning Upgrade to `Nodejs`
+- After the Cloning edit the `config.js`
 - Go to "Secret (Environment variables)" Type you're `Token`
 - Then go to `config.json` type you're `Prefix`
 - Go to files name "`.replit`"
